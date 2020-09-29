@@ -76,7 +76,7 @@ def perform_tokenization(x_test):
 if __name__ == "__main__": 
     
 	# 1. Load your saved model
-    model = load_model('models\\20868348_NLP_model.h5')
+    model = load_model('models\\NLP_model.h5')
 
 	# 2. Load your testing data
     PATH='data\\aclImdb\\'
