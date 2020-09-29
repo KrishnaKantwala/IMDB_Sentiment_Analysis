@@ -124,4 +124,4 @@ if __name__ == "__main__":
     print("Final Training accuracy:" , accuracy*100)
 
 	# 3. Save your model
-    model.save("models\\20868348_NLP_model.h5")
+    model.save("models\\NLP_model.h5")
