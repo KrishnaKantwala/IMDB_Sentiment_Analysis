@@ -5,7 +5,7 @@ Performed deep learning convolutional model with RNN LSTM model in python to get
 ## 1. Preprocessing:
 IMDB is a dataset of 25000 positive and 25000 negative review. I am performing preprocessing separately for training and testing but the procedure is almost same except tokenization.
 
-  • Collected data from IMDB dataset locally and saved into training and testing data. <br/>
+  - Collected data from IMDB dataset locally and saved into training and testing data. <br/>
   • Removed HTML tags from review. <br/>
   • Converted entire review into lowercase. <br/>
   • Removed any string punctuation from review. <br/>
