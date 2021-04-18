@@ -21,6 +21,6 @@ IMDB is a dataset of 25000 positive and 25000 negative review. I am performing p
  
 ## 3. Training and testing accuracy:
 
-  • Below training accuracy observed with 3 epochs as increasing more epochs leads to more time consumption and comprise in accuracy as well as increasing input dimension and input length in embedding layer result in less accuracy. <br/>
+  • Training accuracy observed with 3 epochs as increasing more epochs leads to more time consumption and comprise in accuracy as well as increasing input dimension and input length in embedding layer result in less accuracy. <br/>
   • Training accuracy: 91.57% <br/>
   • Testing accuracy: 87.79%
